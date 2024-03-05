@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Florina\Desktop\FACULTATE\GP\test\main.cpp(141,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Florina\Desktop\FACULTATE\GP\test\main.cpp(142,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Florina\Desktop\FACULTATE\GP\test\main.cpp(145,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Florina\Desktop\FACULTATE\GP\test\main.cpp(146,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Florina\Desktop\FACULTATE\GP\test\main.cpp(148,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Florina\Desktop\FACULTATE\GP\test\main.cpp(149,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  test.vcxproj -> C:\Users\Florina\Desktop\FACULTATE\GP\test\x64\Debug\test.exe
