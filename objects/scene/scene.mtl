@@ -1,0 +1,435 @@
+# Blender 4.0.2 MTL File: 'proiectGP.blend'
+# www.blender.org
+
+newmtl 10450_Rectangular_Grass_Patch_v1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 10450_Rectangular_Grass_Patch_v1_Diffuse.jpg
+
+newmtl Cat
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Cat_diffuse.jpg
+map_Bump Cat_bump.jpg
+
+newmtl Cat.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Cat_diffuse_neagra.jpg
+map_Bump Cat_bump_neagra.jpg
+
+newmtl Glass.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.764745 0.456507
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.222222
+illum 9
+
+newmtl Glass.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.764745 0.456507
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.222222
+illum 9
+
+newmtl Glass.004
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.764745 0.456507
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.222222
+illum 9
+
+newmtl Gothic_Wood_Picket_Fence_Panel_1
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gothic_Wood_Picket_Fence_Panel_diffuse.jpg
+
+newmtl Gothic_Wood_Picket_Fence_Panel_1.001
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gothic_Wood_Picket_Fence_Panel_diffuse.jpg
+
+newmtl Gothic_Wood_Picket_Fence_Panel_1.002
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gothic_Wood_Picket_Fence_Panel_diffuse.jpg
+
+newmtl Gothic_Wood_Picket_Fence_Panel_1.003
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gothic_Wood_Picket_Fence_Panel_diffuse.jpg
+
+newmtl Gothic_Wood_Picket_Fence_Panel_1.004
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gothic_Wood_Picket_Fence_Panel_diffuse.jpg
+
+newmtl Gothic_Wood_Picket_Fence_Panel_1.007
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gothic_Wood_Picket_Fence_Panel_diffuse.jpg
+
+newmtl Gothic_Wood_Picket_Fence_Panel_1.008
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gothic_Wood_Picket_Fence_Panel_diffuse.jpg
+
+newmtl Gothic_Wood_Picket_Fence_Panel_1.009
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gothic_Wood_Picket_Fence_Panel_diffuse.jpg
+
+newmtl Gothic_Wood_Picket_Fence_Panel_1.010
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Gothic_Wood_Picket_Fence_Panel_diffuse.jpg
+
+newmtl Jezdnia_Kraweznik_MAT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Jezdnia_Kraweznik_DIFFUSE.jpg
+
+newmtl Material.001_BrickRound0105_5_SPEC.png.020
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BrickRound0105_5_S.jpg
+
+newmtl Material.001_BrickRound0105_5_SPEC.png.021
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BrickRound0105_5_S.jpg
+
+newmtl Material.001_BrickRound0105_5_SPEC.png.023
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BrickRound0105_5_S.jpg
+
+newmtl Material.001_BrickRound0105_5_SPEC.png.024
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BrickRound0105_5_S.jpg
+
+newmtl Material.001_BrickRound0105_5_SPEC.png.025
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BrickRound0105_5_S.jpg
+
+newmtl Material.001_BrickRound0105_5_SPEC.png.026
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BrickRound0105_5_S.jpg
+
+newmtl Material.009
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.476990 0.476990 0.476990
+Ks 0.825397 0.825397 0.825397
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.010
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 119498958977780800stop_sign_right_font_mig_.svg.med.png
+
+newmtl Material.011
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 119498958977780800stop_sign_right_font_mig_.svg.med.png
+
+newmtl Material.013
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.150794 0.150794 0.150794
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl Material.014
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.150794 0.150794 0.150794
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl Material.015
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.150794 0.150794 0.150794
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Grass.png
+
+newmtl Material.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Grass.png
+
+newmtl Material.204
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd garbage container.jpg
+map_Ks garbage container.jpg
+map_Bump garbage container.jpg
+
+newmtl Metal.001
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl Metal.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl Metal.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl None.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl None.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl None.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl phong1SG
+Ns 0.000000
+Ka 0.240000 0.240000 0.240000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 6857659-light-brown-wallpaper.jpg
+
+newmtl phong1SG.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1_BaseColor.jpg
+
+newmtl phong2SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 2_BaseColor.jpg
+
+newmtl phong3SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 3_BaseColor.jpg
+
+newmtl phong4SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 4_BaseColor.jpg
+
+newmtl phong5SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 5_BaseColor.jpg
